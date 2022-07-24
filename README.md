@@ -1,4 +1,32 @@
 # Getting Started with Create React App
+## start project in current directory
+npx create-react-app react-mui --template typescript
+## head into directory and run yarn start or npm start
+## install material ui (from inside project directory)
+yarn add @mui/material @emotion/react @emotion/styled
+## remove unnecessary code and imports from App.tsx
+
+## add icons right here
+yarn add @mui/icons-material
+
+
+## create components folder
+
+
+Lets get started on each module ... 
+# Typography
+# Components
+## inputs/form controls
+## layout
+## navigation
+## data display/ feedback
+## MUI lab
+# MUI customization
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
